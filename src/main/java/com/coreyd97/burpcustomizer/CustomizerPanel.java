@@ -93,18 +93,13 @@ public class CustomizerPanel extends JPanel {
         StyleConstants.setItalic(italics, true);
 
 
-        String intro = "Everybody knows hackers only work at night, so for years people asked PortSwigger to implement a dark theme.\n" +
-                "When they did, hackers rejoiced everywhere! But, some still wanted more... Until... Burp Customizer!\n\n" +
-                "Burp Suite 2020.12 replaced the old Look and Feel classes with FlatLaf, an open source Look and Feel class " +
-                "which also supports 3rd party themes developed for the IntelliJ Platform. This extension allows you to use " +
-                "these themes in Burp Suite, and includes a number of bundled themes to try.\n\n";
-        String notesHeader = "Notes:\n";
+        String intro = "Ev";
+        String notesHeader = "Notes:";
         String notes = "stfuanu :| ";
-        String limitationsHeader = "Limitations:\n";
-        String limitations = "Removing Text , because Apply jbutton is not visible :)) .\n\n";
-        String creditsHeader = "Credits:\n";
-        String credits = "FlatLaf - https://www.formdev.com/flatlaf/\n" +
-                                "All theme credits go to their original authors.";
+        String limitationsHeader = "Limitations:";
+        String limitations = "Removing Text , because Apply jbutton is not visible :))\n";
+        String creditsHeader = "Credits:";
+        String credits = "FlatLaf - https://www.formdev.com/flatlaf/";
 
         //Doing this an odd way since insertString seems to cause errors on windows!
         int offset = 0;
