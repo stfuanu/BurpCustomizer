@@ -55,7 +55,7 @@ these themes in Burp Suite, and includes a number of bundled themes to try.
 </table>
 
 **Limitations:**  
-Since Burp uses a number of custom GUI elements, PortSwigger extended the default
+Since Burp uses a  number of custom GUI elements, PortSwigger extended the default
 Look and Feel classes with a number of additional properties. In order to try to make these blend in, I've
 tried to find standard elements who's colors can be used to replace the custom properties. Some themes might
 not have these properties, or might not fit the theme perfectly. If there are any elements which don't fit,
