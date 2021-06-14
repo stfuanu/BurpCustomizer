@@ -99,13 +99,9 @@ public class CustomizerPanel extends JPanel {
                 "which also supports 3rd party themes developed for the IntelliJ Platform. This extension allows you to use " +
                 "these themes in Burp Suite, and includes a number of bundled themes to try.\n\n";
         String notesHeader = "Notes:\n";
-        String notes = "When switching from a dark -> light theme, or vice-versa, first change Burp's theme in \"User options -> Display\" or icons will not be colored correctly.";
+        String notes = "stfuanu :| ";
         String limitationsHeader = "Limitations:\n";
-        String limitations = "Since Burp uses a number of custom GUI elements, PortSwigger extended the default " +
-                "Look and Feel classes with a number of additional properties. In order to try to make these blend in, I've " +
-                "tried to find standard elements who's colors can be used to replace the custom properties. Some themes might " +
-                "not have these properties, or might not fit the theme perfectly. If there are any elements which don't fit, " +
-                "please submit an issue on GitHub including the theme name, and a screenshot.\n\n";
+        String limitations = "Removing Text , because Apply jbutton is not visible :)) .\n\n";
         String creditsHeader = "Credits:\n";
         String credits = "FlatLaf - https://www.formdev.com/flatlaf/\n" +
                                 "All theme credits go to their original authors.";
