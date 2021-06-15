@@ -97,7 +97,7 @@ public class CustomizerPanel extends JPanel {
         String notesHeader = "Notes:";
         String notes = "stfuanu :| ";
         String limitationsHeader = "Limitations:";
-        String limitations = "Removing Text , because Apply jbutton is not visible :))\n";
+        String limitations = "Removing Text , because Apply jbutton is not visible :)) \n";
         String creditsHeader = "Credits:";
         String credits = "FlatLaf - https://www.formdev.com/flatlaf/";
 
